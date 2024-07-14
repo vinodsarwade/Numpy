@@ -1,12 +1,12 @@
 import numpy as np
-# arr = np.array([20,40,60,70])
-# print(np.sum(arr))
-# print(np.min(arr))
-# print(np.max(arr))
-# print(np.size(arr))
-# print(np.mean(arr))
-# print(np.cumsum(arr)) #cumulative sum of elements in array
-# print(np.cumprod(arr))
+arr = np.array([20,40,60,70])
+print(np.sum(arr))
+print(np.min(arr))
+print(np.max(arr))
+print(np.size(arr))
+print(np.mean(arr))
+print(np.cumsum(arr)) #cumulative sum of elements in array
+print(np.cumprod(arr))
 
 
 a = np.array([100,150,199,200,250,130])
